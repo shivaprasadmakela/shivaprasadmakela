@@ -1,5 +1,5 @@
-<h1 align="center">Hello <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height=50px width = 50px>, myself Deepak Verma</h1>
-<h3 align="center">I am a Full-stack Web developer pursuing Bachelors of Technology from Indian Institute of Technology (BHU) Varanasi.</h3>
+<h1 align="center">Hello <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height=50px width = 50px>, myself shiva prasad m</h1>
+<h3 align="center">I am a Full-stack Web developer pursuing Bachelors of Technology </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepakv14&label=Profile%20views&color=0e75b6&style=flat" alt="Deepakv14" /> </p>
 <hr>
