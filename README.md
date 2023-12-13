@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:<img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height=50px width="100px"> </h2></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepak-verma-1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-verma-1403" height="45" width="50" /></a>   
+<a href="https://www.linkedin.com/in/shiva-prasad-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-verma-1403" height="45" width="50" /></a>   
               <a href="https://www.instagram.com/deepak_1403_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_1403_" height="45" width="50" /></a>   
               <a href = 'https://youtube.com/c/DeepakVermaIITBHU'> <img width = '60px' align= 'center' src="https://img.icons8.com/color/2x/youtube-play.png" /></a> 
 </p>
