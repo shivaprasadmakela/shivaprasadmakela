@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height=50px width = 50px>, myself shiva prasad m</h1>
-<h3 align="center">I am a Full-stack Web developer pursuing Bachelors of Technology </h3>
+<h3 align="center">I am a Full-stack Web developer Completed Bachelors of Technology </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaprasadmakela&label=Profile%20views&color=0e75b6&style=flat" alt="Deepakv1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepakv1&label=Profile%20views&color=0e75b6&style=flat" alt="Deepakv1" /> </p>
 <hr>
 
 <h3 align="left">Connect with me:<img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height=50px width="100px"> </h2></h3>
