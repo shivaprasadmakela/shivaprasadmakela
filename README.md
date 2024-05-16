@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height=50px width = 50px>, myself shiva prasad m</h1>
 <h3 align="center">I am a Full-stack Web developer pursuing Bachelors of Technology </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepakv14&label=Profile%20views&color=0e75b6&style=flat" alt="Deepakv1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaprasadmakela&label=Profile%20views&color=0e75b6&style=flat" alt="Deepakv1" /> </p>
 <hr>
 
 <h3 align="left">Connect with me:<img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height=50px width="100px"> </h2></h3>
@@ -16,11 +16,11 @@
  </p>
 
 ## &#x1f4c8; GitHub Stats
-![](https://komarev.com/ghpvc/?username=Deepakv14)
+![](https://komarev.com/ghpvc/?username=shivaprasadmakela)
 <br>
-<a href="https://github.com/Deepakv14">
-  <img height="495" width="375" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakv14&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Deepak's GitHub Stats" /> 
+<a href="https://github.com/shivaprasadmakela">
+  <img height="495" width="375" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasadmakela&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Deepak's GitHub Stats" /> 
 </a>
-<a href="https://github.com/Deepakv14">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Deepakv14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deepak's GitHub Stats" />
+<a href="https://github.com/shivaprasadmakela">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=shivaprasadmakela&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deepak's GitHub Stats" />
 </a>
