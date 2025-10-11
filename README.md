@@ -65,10 +65,10 @@ I also run a **YouTube channel with 11K+ subscribers**, where I used to teach an
 
 Let’s connect and build together!
 
-- 📧 **Email:** `shivaprasad.dev@gmail.com` *(placeholder — update with yours)*
-- 🧑‍💼 [LinkedIn](nkedin.com/in/shiva-prasad-m/) *(insert your link)*
-- 📺 [YouTube](https://www.youtube.com/@shivaprasad.m) *(insert your channel)*
-- 💻 [Portfolio](https://shivaprasadm.vercel.app/) *(coming soon...)*
+- 📧 **Email:** `shivaprasad.dev@gmail.com`
+- 🧑‍💼 [LinkedIn](nkedin.com/in/shiva-prasad-m/)
+- 📺 [YouTube](https://www.youtube.com/@shivaprasad.m)
+- 💻 [Portfolio](https://shivaprasadm.vercel.app/)
 
 ---
 
