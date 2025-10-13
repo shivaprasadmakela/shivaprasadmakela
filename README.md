@@ -65,7 +65,7 @@ I also run a **YouTube channel with 11K+ subscribers**, where I used to teach an
 
 Let’s connect and build together!
 
-- 📧 **Email:** `shivaprasad.dev@gmail.com`
+- 📧 **Email:** `shivaprasadmakela@gmail.com`
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/shiva-prasad-m/)
 - 📺 [YouTube](https://www.youtube.com/@shivaprasad.m)
 - 💻 [Portfolio](https://shivaprasadm.vercel.app/)
