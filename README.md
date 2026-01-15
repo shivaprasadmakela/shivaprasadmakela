@@ -68,7 +68,7 @@ Let’s connect and build together!
 - 📧 **Email:** `shivaprasadmakela@gmail.com`
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/shiva-prasad-m/)
 - 📺 [YouTube](https://www.youtube.com/@shivaprasad.m)
-- 💻 [Portfolio](https://shivaprasadm.vercel.app/)
+- 💻 [Portfolio](https://shivaprasadm.in)
 
 ---
 
